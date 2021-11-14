@@ -24,6 +24,12 @@
   color: white;
 }
 
+.HomeHeader {
+  background-color: black;
+  color: azure;
+  padding: 20px;
+}
+
 .App-link {
   color: #61dafb;
 }
